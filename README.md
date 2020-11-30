@@ -1,3 +1,3 @@
 #Beroepsopdracht
-Hello 
-World
+Hello
+world
