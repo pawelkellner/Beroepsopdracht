@@ -1,5 +1,5 @@
 .container {
-    background-color: black;
+    background-color: #3e3e3e;
     width: 100%;
     height: auto;
 }
@@ -63,7 +63,7 @@ body {
 
 .second-container {
     margin-top: 20px;
-    background-color: rgb(155, 154, 154);
+    background-color: #3e3e3e;
     height: 100%;
     padding-top: 200px;
     padding-bottom: 200px;
@@ -80,7 +80,7 @@ body {
 }
 
 .webxr-informatie {
-    background-color: white;
+    background-color: #aaaaaa;
     width: 800px;
     height: 200px;
     margin: auto;
