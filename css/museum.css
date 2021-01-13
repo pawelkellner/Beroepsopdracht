@@ -80,7 +80,7 @@ body {
 }
 
 .webxr-informatie {
-    background-color: #aaaaaa;
+    background-color: #AAAAAA;
     width: 800px;
     height: 200px;
     margin: auto;
@@ -89,6 +89,87 @@ body {
 .balk {
     background-color: black;
     margin: 0%;
-    height: 200px;
+    height: auto;
     padding-top: 1px;
+    padding-bottom: 1px;
+    display: flex;
+}
+
+.contact {
+    color: white;
+    width: 172px;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+#overons {
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#directnaar {
+    color: white;
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+#lijst_over {
+    list-style: none;
+    padding: 0;
+}
+
+#lijst_direct {
+    list-style: none;
+    padding: 0;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+  
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
+
+#list_direct1 {
+    height: 30px;
+}
+
+#list_direct2 {
+    height: 30px;
+}
+
+#list_direct3 {
+    height: 30px;
+}
+
+#list_direct4 {
+    height: 30px;
+}
+
+#list_over1 {
+    height: 30px;
+}
+
+#list_over2 {
+    height: 30px;
+}
+
+#list_over3 {
+    height: 30px;
+}
+
+#list_over4 {
+    height: 30px;
 }
