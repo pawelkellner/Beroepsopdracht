@@ -82,8 +82,10 @@ body {
 .webxr-informatie {
     background-color: #AAAAAA;
     width: 800px;
-    height: 200px;
+    height: auto;
     margin: auto;
+    padding: 20px;
+    margin-top: 50px;
 }
 
 .balk {
@@ -172,4 +174,13 @@ a:active {
 
 #list_over4 {
     height: 30px;
+}
+
+@font-face {
+    font-family: "myFont";
+    src: url("../font/Brother1816-Regular.woff") format('woff');
+}
+
+div {
+    font-family: myFont;
 }
